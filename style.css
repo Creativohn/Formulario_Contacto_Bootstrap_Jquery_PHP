@@ -1,0 +1,47 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+body{
+	background-color: #f0f0f0;
+	color: #4c4c4c;
+	font-family: 'Asap', sans-serif;
+	font-size: 14px;
+}
+label, input[type="submit"]{
+	margin-top: 6px;
+}
+.btn:focus{
+	outline: none;
+}
+.ibody{
+	background-color: #ecf0f3;
+	border: 1px solid #bfd8eb;
+	border-radius: 8px;
+	margin: 30px auto;
+	width: 500px;
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+}
+.jumbotron{
+	background-color: #bfd8eb;
+	border-radius: 8px 8px 0px 0px;
+	margin-bottom: 0px;
+	padding: 16px;
+	-webkit-border-radius: 8px 8px 0px 0px;
+	-moz-border-radius: 8px 8px 0px 0px;
+}
+.jumbotron h1{
+	color: #77a5c7;
+	font-size: 36px;
+	text-align: center;
+	text-shadow: 0px 1px #fff;
+}
+.fcontacto{
+	padding: 14px;
+}
+.logito{
+	margin-bottom: 6px;
+	text-align: center;
+}
+@CreativoHN
